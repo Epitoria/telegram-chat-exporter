@@ -48,7 +48,7 @@ Create a `.env` file next to the script to pre-fill credentials:
 ```env
 API_ID=12345678
 API_HASH=your_api_hash_here
-PHONE=+074353234563
+PHONE=your_international_phone_number
 ```
 
 ### 3. Run
