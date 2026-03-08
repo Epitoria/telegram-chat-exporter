@@ -94,7 +94,7 @@ Open `messages.html` directly in your browser — no server needed.
 
 ## Notes
 
-- This tool uses the **Telegram user API** (MTProto), not the bot API — it can export any chat you're a member of
+- This tool uses the **Telegram user API** (MTProto), not the bot API, it can export any chat you're a member of
 - Your session file (`tg_exporter.session`) is stored locally; never share it
 - Telegram may rate-limit heavy exports — the app handles flood-wait errors automatically
 
